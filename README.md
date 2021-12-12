@@ -12,7 +12,7 @@ https://www.elastic.co/kr/training/elastic-certified-engineer-exam
 그리하여 결심했다! 자격증이고 수업이고 우선은 내가 한 번 정리해 본다!  
 Elastic Stack 지식도 정리해 보고, 겸사겸사 영어 공부도 해 볼 기회로 만들어 보자.
 
-# 개정판
+## 개정판
 최근 개정된 강의 목차가 아래와 같다.  
 각각의 디렉토리를 생성, readme 파일에 설명과 알맞은 내용을 추가하여 적도록 한다.  
 https://www.elastic.co/kr/training/elasticsearch-engineer
@@ -25,7 +25,7 @@ https://www.elastic.co/kr/training/elasticsearch-engineer
   
 아래는 개정 전의 강의로, 2 파트로 나뉘어져 있었던 것 같다.  
 아래 목차를 위의 개정판에 알맞게 분배하여 빠지는 내용 없이 녹여서 학습하도록 한다.
-## Elastic Engineer 1
+#### Elastic Engineer 1
 https://www.elastic.co/kr/training/elasticsearch-engineer-1
 * Elastic Stack Overview
 * Getting Started with Elasticsearch
@@ -38,7 +38,7 @@ https://www.elastic.co/kr/training/elasticsearch-engineer-1
 * Securing Elasticsearch
 * Best Practices
 
-## Elastic Engineer 2
+#### Elastic Engineer 2
 https://www.elastic.co/kr/training/elasticsearch-engineer-2
 * Field Modeling
 * Fixing Data
